@@ -9,6 +9,8 @@
     * Redshift
 
     * Elasticsearch
+    . splunk
+    .Redshift
 
 * Can use existing BI tools and dashboards
 
